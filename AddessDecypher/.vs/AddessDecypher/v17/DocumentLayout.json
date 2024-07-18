@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\karpagam\\C#\\AddessDecypher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F40922B-53A0-417F-8156-8524F1D9A47B}|AddessDecypher\\AddessDecypher.csproj|d:\\users\\karpagam\\c#\\addessdecypher\\addessdecypher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F40922B-53A0-417F-8156-8524F1D9A47B}|AddessDecypher\\AddessDecypher.csproj|solutionrelative:addessdecypher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\AddessDecypher\\AddessDecypher\\Program.cs",
+              "RelativeDocumentMoniker": "AddessDecypher\\Program.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\AddessDecypher\\AddessDecypher\\Program.cs",
+              "RelativeToolTip": "AddessDecypher\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:37:43.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

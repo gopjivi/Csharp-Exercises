@@ -1,0 +1,14 @@
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\obj\Debug\net8.0\ReadTheData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\obj\Debug\net8.0\ReadTheData.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\obj\Debug\net8.0\ReadTheData.AssemblyInfo.cs
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\obj\Debug\net8.0\ReadTheData.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\bin\Debug\net8.0\ReadTheData.exe
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\bin\Debug\net8.0\ReadTheData.deps.json
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\bin\Debug\net8.0\ReadTheData.runtimeconfig.json
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\bin\Debug\net8.0\ReadTheData.dll
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\bin\Debug\net8.0\ReadTheData.pdb
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\obj\Debug\net8.0\ReadTheData.dll
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\obj\Debug\net8.0\refint\ReadTheData.dll
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\obj\Debug\net8.0\ReadTheData.pdb
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\obj\Debug\net8.0\ReadTheData.genruntimeconfig.cache
+D:\Users\karpagam\C#\ReadTheData\ReadTheData\obj\Debug\net8.0\ref\ReadTheData.dll

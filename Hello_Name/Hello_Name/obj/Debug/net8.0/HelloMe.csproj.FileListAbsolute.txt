@@ -1,0 +1,14 @@
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\bin\Debug\net8.0\HelloMe.exe
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\bin\Debug\net8.0\HelloMe.deps.json
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\bin\Debug\net8.0\HelloMe.runtimeconfig.json
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\bin\Debug\net8.0\HelloMe.dll
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\bin\Debug\net8.0\HelloMe.pdb
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\obj\Debug\net8.0\HelloMe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\obj\Debug\net8.0\HelloMe.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\obj\Debug\net8.0\HelloMe.AssemblyInfo.cs
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\obj\Debug\net8.0\HelloMe.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\obj\Debug\net8.0\HelloMe.dll
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\obj\Debug\net8.0\refint\HelloMe.dll
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\obj\Debug\net8.0\HelloMe.pdb
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\obj\Debug\net8.0\HelloMe.genruntimeconfig.cache
+D:\Users\karpagam\C#\Hello_Name\Hello_Name\obj\Debug\net8.0\ref\HelloMe.dll

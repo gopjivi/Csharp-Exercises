@@ -1,0 +1,14 @@
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\obj\Debug\net8.0\FormatTheData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\obj\Debug\net8.0\FormatTheData.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\obj\Debug\net8.0\FormatTheData.AssemblyInfo.cs
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\obj\Debug\net8.0\FormatTheData.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\bin\Debug\net8.0\FormatTheData.exe
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\bin\Debug\net8.0\FormatTheData.deps.json
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\bin\Debug\net8.0\FormatTheData.runtimeconfig.json
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\bin\Debug\net8.0\FormatTheData.dll
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\bin\Debug\net8.0\FormatTheData.pdb
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\obj\Debug\net8.0\FormatTheData.dll
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\obj\Debug\net8.0\refint\FormatTheData.dll
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\obj\Debug\net8.0\FormatTheData.pdb
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\obj\Debug\net8.0\FormatTheData.genruntimeconfig.cache
+D:\Users\karpagam\C#\FormatTheData\FormatTheData\obj\Debug\net8.0\ref\FormatTheData.dll

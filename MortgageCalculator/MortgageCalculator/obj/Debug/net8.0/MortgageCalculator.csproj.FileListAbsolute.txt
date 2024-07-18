@@ -1,0 +1,14 @@
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.exe
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.deps.json
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.runtimeconfig.json
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.dll
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.pdb
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.AssemblyInfo.cs
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.dll
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\refint\MortgageCalculator.dll
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.pdb
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.genruntimeconfig.cache
+D:\Users\karpagam\C#\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\ref\MortgageCalculator.dll

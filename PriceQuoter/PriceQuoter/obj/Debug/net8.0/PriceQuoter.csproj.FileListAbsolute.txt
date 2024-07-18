@@ -1,0 +1,14 @@
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\bin\Debug\net8.0\PriceQuoter.exe
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\bin\Debug\net8.0\PriceQuoter.deps.json
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\bin\Debug\net8.0\PriceQuoter.runtimeconfig.json
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\bin\Debug\net8.0\PriceQuoter.dll
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\bin\Debug\net8.0\PriceQuoter.pdb
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\obj\Debug\net8.0\PriceQuoter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\obj\Debug\net8.0\PriceQuoter.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\obj\Debug\net8.0\PriceQuoter.AssemblyInfo.cs
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\obj\Debug\net8.0\PriceQuoter.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\obj\Debug\net8.0\PriceQuoter.dll
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\obj\Debug\net8.0\refint\PriceQuoter.dll
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\obj\Debug\net8.0\PriceQuoter.pdb
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\obj\Debug\net8.0\PriceQuoter.genruntimeconfig.cache
+D:\Users\karpagam\C#\PriceQuoter\PriceQuoter\obj\Debug\net8.0\ref\PriceQuoter.dll
