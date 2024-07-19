@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\karpagam\\C#\\MortgageCalculator\\MortgageCalculator\\MortgageCalculator.csproj",
+      "projectUniqueName": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\MortgageCalculator\\MortgageCalculator\\MortgageCalculator.csproj",
       "projectName": "MortgageCalculator",
-      "projectPath": "D:\\Users\\karpagam\\C#\\MortgageCalculator\\MortgageCalculator\\MortgageCalculator.csproj",
+      "projectPath": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\MortgageCalculator\\MortgageCalculator\\MortgageCalculator.csproj",
       "packagesPath": "D:\\Users\\karpagam\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\karpagam\\C#\\MortgageCalculator\\MortgageCalculator\\obj\\",
+      "outputPath": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\MortgageCalculator\\MortgageCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\karpagam\\AppData\\Roaming\\NuGet\\NuGet.Config",

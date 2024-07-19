@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\karpagam\\C#\\MortgageCalculator\\",
+  "WorkspaceRootPath": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\MortgageCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A494E8AF-6212-415E-8939-423FC0C2BA1A}|MortgageCalculator\\MortgageCalculator.csproj|d:\\users\\karpagam\\c#\\mortgagecalculator\\mortgagecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A494E8AF-6212-415E-8939-423FC0C2BA1A}|MortgageCalculator\\MortgageCalculator.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\mortgagecalculator\\mortgagecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A494E8AF-6212-415E-8939-423FC0C2BA1A}|MortgageCalculator\\MortgageCalculator.csproj|solutionrelative:mortgagecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\MortgageCalculator\\MortgageCalculator\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\MortgageCalculator\\MortgageCalculator\\Program.cs",
               "RelativeDocumentMoniker": "MortgageCalculator\\Program.cs",
-              "ToolTip": "D:\\Users\\karpagam\\C#\\MortgageCalculator\\MortgageCalculator\\Program.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\MortgageCalculator\\MortgageCalculator\\Program.cs",
               "RelativeToolTip": "MortgageCalculator\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T12:10:16.81Z",
               "EditorCaption": ""

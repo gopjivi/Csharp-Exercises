@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-2\\ClassPlay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93446EAF-1981-40FB-AA29-2068A6FA93D3}|ClassPlay\\ClassPlay.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\day-2\\classplay\\classplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93446EAF-1981-40FB-AA29-2068A6FA93D3}|ClassPlay\\ClassPlay.csproj|solutionrelative:classplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93446EAF-1981-40FB-AA29-2068A6FA93D3}|ClassPlay\\ClassPlay.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\day-2\\classplay\\classplay\\sportsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93446EAF-1981-40FB-AA29-2068A6FA93D3}|ClassPlay\\ClassPlay.csproj|solutionrelative:classplay\\sportsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SportsPlayer.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-2\\ClassPlay\\ClassPlay\\SportsPlayer.cs",
+              "RelativeDocumentMoniker": "ClassPlay\\SportsPlayer.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-2\\ClassPlay\\ClassPlay\\SportsPlayer.cs",
+              "RelativeToolTip": "ClassPlay\\SportsPlayer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:20:34.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-2\\ClassPlay\\ClassPlay\\Program.cs",
+              "RelativeDocumentMoniker": "ClassPlay\\Program.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-2\\ClassPlay\\ClassPlay\\Program.cs",
+              "RelativeToolTip": "ClassPlay\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:19:46.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

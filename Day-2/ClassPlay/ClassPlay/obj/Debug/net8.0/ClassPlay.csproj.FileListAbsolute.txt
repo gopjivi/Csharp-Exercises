@@ -1,0 +1,15 @@
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\bin\Debug\net8.0\ClassPlay.exe
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\bin\Debug\net8.0\ClassPlay.deps.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\bin\Debug\net8.0\ClassPlay.runtimeconfig.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\bin\Debug\net8.0\ClassPlay.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\bin\Debug\net8.0\ClassPlay.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\obj\Debug\net8.0\ClassPlay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\obj\Debug\net8.0\ClassPlay.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\obj\Debug\net8.0\ClassPlay.AssemblyInfo.cs
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\obj\Debug\net8.0\ClassPlay.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\obj\Debug\net8.0\ClassPlay.sourcelink.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\obj\Debug\net8.0\ClassPlay.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\obj\Debug\net8.0\refint\ClassPlay.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\obj\Debug\net8.0\ClassPlay.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\obj\Debug\net8.0\ClassPlay.genruntimeconfig.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ClassPlay\ClassPlay\obj\Debug\net8.0\ref\ClassPlay.dll

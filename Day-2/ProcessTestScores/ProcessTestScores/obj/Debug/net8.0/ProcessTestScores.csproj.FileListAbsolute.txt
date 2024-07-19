@@ -1,0 +1,15 @@
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\bin\Debug\net8.0\ProcessTestScores.exe
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\bin\Debug\net8.0\ProcessTestScores.deps.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\bin\Debug\net8.0\ProcessTestScores.runtimeconfig.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\bin\Debug\net8.0\ProcessTestScores.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\bin\Debug\net8.0\ProcessTestScores.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.AssemblyInfo.cs
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.sourcelink.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\obj\Debug\net8.0\refint\ProcessTestScores.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.genruntimeconfig.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ProcessTestScores\ProcessTestScores\obj\Debug\net8.0\ref\ProcessTestScores.dll

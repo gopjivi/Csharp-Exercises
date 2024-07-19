@@ -1,0 +1,15 @@
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\bin\Debug\net8.0\NameAndAge.exe
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\bin\Debug\net8.0\NameAndAge.deps.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\bin\Debug\net8.0\NameAndAge.runtimeconfig.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\bin\Debug\net8.0\NameAndAge.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\bin\Debug\net8.0\NameAndAge.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\obj\Debug\net8.0\NameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\obj\Debug\net8.0\NameAndAge.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\obj\Debug\net8.0\NameAndAge.AssemblyInfo.cs
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\obj\Debug\net8.0\NameAndAge.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\obj\Debug\net8.0\NameAndAge.sourcelink.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\obj\Debug\net8.0\NameAndAge.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\obj\Debug\net8.0\refint\NameAndAge.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\obj\Debug\net8.0\NameAndAge.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\obj\Debug\net8.0\NameAndAge.genruntimeconfig.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\NameAndAge\NameAndAge\obj\Debug\net8.0\ref\NameAndAge.dll
