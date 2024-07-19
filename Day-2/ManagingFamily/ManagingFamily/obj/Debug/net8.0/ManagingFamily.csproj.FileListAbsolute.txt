@@ -1,0 +1,15 @@
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\bin\Debug\net8.0\ManagingFamily.exe
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\bin\Debug\net8.0\ManagingFamily.deps.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\bin\Debug\net8.0\ManagingFamily.runtimeconfig.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\bin\Debug\net8.0\ManagingFamily.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\bin\Debug\net8.0\ManagingFamily.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\obj\Debug\net8.0\ManagingFamily.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\obj\Debug\net8.0\ManagingFamily.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\obj\Debug\net8.0\ManagingFamily.AssemblyInfo.cs
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\obj\Debug\net8.0\ManagingFamily.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\obj\Debug\net8.0\ManagingFamily.sourcelink.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\obj\Debug\net8.0\ManagingFamily.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\obj\Debug\net8.0\refint\ManagingFamily.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\obj\Debug\net8.0\ManagingFamily.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\obj\Debug\net8.0\ManagingFamily.genruntimeconfig.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\ManagingFamily\ManagingFamily\obj\Debug\net8.0\ref\ManagingFamily.dll

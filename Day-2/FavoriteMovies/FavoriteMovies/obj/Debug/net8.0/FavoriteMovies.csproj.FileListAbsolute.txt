@@ -1,0 +1,14 @@
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\bin\Debug\net8.0\FavoriteMovies.exe
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\bin\Debug\net8.0\FavoriteMovies.deps.json
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\bin\Debug\net8.0\FavoriteMovies.runtimeconfig.json
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\bin\Debug\net8.0\FavoriteMovies.dll
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\bin\Debug\net8.0\FavoriteMovies.pdb
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.AssemblyInfoInputs.cache
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.AssemblyInfo.cs
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.dll
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\obj\Debug\net8.0\refint\FavoriteMovies.dll
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.pdb
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.genruntimeconfig.cache
+D:\Users\karpagam\source\repos\FavoriteMovies\FavoriteMovies\obj\Debug\net8.0\ref\FavoriteMovies.dll

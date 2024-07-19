@@ -1,0 +1,15 @@
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\bin\Debug\net8.0\TimeMath.exe
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\bin\Debug\net8.0\TimeMath.deps.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\bin\Debug\net8.0\TimeMath.runtimeconfig.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\bin\Debug\net8.0\TimeMath.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\bin\Debug\net8.0\TimeMath.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\obj\Debug\net8.0\TimeMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\obj\Debug\net8.0\TimeMath.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\obj\Debug\net8.0\TimeMath.AssemblyInfo.cs
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\obj\Debug\net8.0\TimeMath.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\obj\Debug\net8.0\TimeMath.sourcelink.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\obj\Debug\net8.0\TimeMath.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\obj\Debug\net8.0\refint\TimeMath.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\obj\Debug\net8.0\TimeMath.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\obj\Debug\net8.0\TimeMath.genruntimeconfig.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-2\TimeMath\TimeMath\obj\Debug\net8.0\ref\TimeMath.dll

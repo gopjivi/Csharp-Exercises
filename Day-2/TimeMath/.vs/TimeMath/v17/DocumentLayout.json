@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-2\\TimeMath\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF112F6F-158A-4487-ADF3-F9A6A76BA056}|TimeMath\\TimeMath.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\day-2\\timemath\\timemath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF112F6F-158A-4487-ADF3-F9A6A76BA056}|TimeMath\\TimeMath.csproj|solutionrelative:timemath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-2\\TimeMath\\TimeMath\\Program.cs",
+              "RelativeDocumentMoniker": "TimeMath\\Program.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-2\\TimeMath\\TimeMath\\Program.cs",
+              "RelativeToolTip": "TimeMath\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:41:52.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
