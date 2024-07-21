@@ -1,0 +1,15 @@
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\bin\Debug\net8.0\PetStore.exe
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\bin\Debug\net8.0\PetStore.deps.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\bin\Debug\net8.0\PetStore.runtimeconfig.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\bin\Debug\net8.0\PetStore.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\bin\Debug\net8.0\PetStore.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\obj\Debug\net8.0\PetStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\obj\Debug\net8.0\PetStore.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\obj\Debug\net8.0\PetStore.AssemblyInfo.cs
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\obj\Debug\net8.0\PetStore.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\obj\Debug\net8.0\PetStore.sourcelink.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\obj\Debug\net8.0\PetStore.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\obj\Debug\net8.0\refint\PetStore.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\obj\Debug\net8.0\PetStore.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\obj\Debug\net8.0\PetStore.genruntimeconfig.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-3\PetStore\PetStore\obj\Debug\net8.0\ref\PetStore.dll
