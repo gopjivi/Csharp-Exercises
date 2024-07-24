@@ -101,7 +101,9 @@ while (!exit)
     Console.WriteLine("Menu:");
     Console.WriteLine("1- Show all items");
     Console.WriteLine("2- Show an item's details");
-  
+    Console.WriteLine("3- Purchase Item");
+    Console.WriteLine("4- Exit");
+
     Console.Write("Select an option: ");
     string choice = Console.ReadLine();
 
@@ -113,8 +115,13 @@ while (!exit)
         case "2":
             ShowItemDetails(inventoryItems);
             break;
-      
-          
+        case "3":
+            PurchaseItem(inventoryItems);
+            break;
+        case "4":
+            exit = true;
+            break;
+
         default:
             Console.WriteLine("Invalid option. Please try again.");
             break;
@@ -137,10 +144,41 @@ static void ShowItemDetails(List<InventoryItem> inventory)
     if (int.TryParse(Console.ReadLine(), out int id))
     {
         InventoryItem item = inventory.Find(i => i.Id == id);
+       
         if (item != null)
         {
             Console.WriteLine($"Id: {item.Id}, Name: {item.Name}, Description: {item.Description}, Price: {item.Price}, Quantity: {item.Quantity}");
            
+        }
+        else
+        {
+            Console.WriteLine("Item not found.");
+        }
+    }
+    else
+    {
+        Console.WriteLine("Invalid ID.");
+    }
+}
+
+static void PurchaseItem(List<InventoryItem> inventory)
+{
+    Console.Write("Enter the item Name: ");
+    string itemName = Console.ReadLine();
+    if(!string.IsNullOrEmpty(itemName))
+    {
+        InventoryItem item = inventory.Find(i => i.Name == itemName);
+        if (item != null)
+        {
+          //  Console.WriteLine("before purchase");
+         ///   Console.WriteLine($"Id: {item.Id}, Name: {item.Name}, Description: {item.Description}, Price: {item.Price}, Quantity: {item.Quantity}");
+
+            item.Quantity--;
+          //  Console.WriteLine("after purchase");
+         //   Console.WriteLine($"Id: {item.Id}, Name: {item.Name}, Description: {item.Description}, Price: {item.Price}, Quantity: {item.Quantity}");
+
+            Console.WriteLine("Amount to be paid {0}", item.Price);
+
         }
         else
         {

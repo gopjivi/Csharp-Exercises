@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5\\LINQandObjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98F6B3-789A-4931-8410-F6D8DAB7B86C}|LINQandObjects\\LINQandObjects.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\day-5\\linqandobjects\\linqandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C98F6B3-789A-4931-8410-F6D8DAB7B86C}|LINQandObjects\\LINQandObjects.csproj|solutionrelative:linqandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98F6B3-789A-4931-8410-F6D8DAB7B86C}|LINQandObjects\\LINQandObjects.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\day-5\\linqandobjects\\linqandobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C98F6B3-789A-4931-8410-F6D8DAB7B86C}|LINQandObjects\\LINQandObjects.csproj|solutionrelative:linqandobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5\\LINQandObjects\\LINQandObjects\\Person.cs",
+              "RelativeDocumentMoniker": "LINQandObjects\\Person.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5\\LINQandObjects\\LINQandObjects\\Person.cs",
+              "RelativeToolTip": "LINQandObjects\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:46:09.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5\\LINQandObjects\\LINQandObjects\\Program.cs",
+              "RelativeDocumentMoniker": "LINQandObjects\\Program.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5\\LINQandObjects\\LINQandObjects\\Program.cs",
+              "RelativeToolTip": "LINQandObjects\\Program.cs",
+              "ViewState": "AQIAAA8AAACg/P////8gwCsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:45:19.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\bin\Debug\net8.0\LINQandObjects.exe
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\bin\Debug\net8.0\LINQandObjects.deps.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\bin\Debug\net8.0\LINQandObjects.runtimeconfig.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\bin\Debug\net8.0\LINQandObjects.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\bin\Debug\net8.0\LINQandObjects.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.AssemblyInfo.cs
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.sourcelink.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\obj\Debug\net8.0\refint\LINQandObjects.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.genruntimeconfig.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandObjects\LINQandObjects\obj\Debug\net8.0\ref\LINQandObjects.dll

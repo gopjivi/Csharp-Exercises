@@ -21,10 +21,6 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "InventoryItem.cs",
@@ -32,10 +28,15 @@
               "RelativeDocumentMoniker": "PetStore\\InventoryItem.cs",
               "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-3\\PetStore\\PetStore\\InventoryItem.cs",
               "RelativeToolTip": "PetStore\\InventoryItem.cs",
-              "ViewState": "AQIAAB8AAAAA/v////8XwBsAAAAAAAAA",
+              "ViewState": "AQIAADcAAAAAkJmZmZkEwC0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T10:24:31.606Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -45,7 +46,7 @@
               "RelativeDocumentMoniker": "PetStore\\Program.cs",
               "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-3\\PetStore\\PetStore\\Program.cs",
               "RelativeToolTip": "PetStore\\Program.cs",
-              "ViewState": "AQIAAGkAAAAANTMzMzMrwIYAAAABAAAA",
+              "ViewState": "AQIAAFwAAAAcZmZmZiYuwIQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T10:23:21.609Z",
               "EditorCaption": ""

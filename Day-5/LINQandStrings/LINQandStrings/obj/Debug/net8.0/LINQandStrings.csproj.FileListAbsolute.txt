@@ -1,0 +1,15 @@
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\bin\Debug\net8.0\LINQandStrings.exe
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\bin\Debug\net8.0\LINQandStrings.deps.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\bin\Debug\net8.0\LINQandStrings.runtimeconfig.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\bin\Debug\net8.0\LINQandStrings.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\bin\Debug\net8.0\LINQandStrings.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.AssemblyInfo.cs
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.sourcelink.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\obj\Debug\net8.0\refint\LINQandStrings.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.genruntimeconfig.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\LINQandStrings\LINQandStrings\obj\Debug\net8.0\ref\LINQandStrings.dll
