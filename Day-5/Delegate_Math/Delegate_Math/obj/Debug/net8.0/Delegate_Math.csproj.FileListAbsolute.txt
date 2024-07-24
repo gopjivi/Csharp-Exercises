@@ -1,0 +1,14 @@
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\obj\Debug\net8.0\Delegate_Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\obj\Debug\net8.0\Delegate_Math.AssemblyInfoInputs.cache
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\obj\Debug\net8.0\Delegate_Math.AssemblyInfo.cs
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\obj\Debug\net8.0\Delegate_Math.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\bin\Debug\net8.0\Delegate_Math.exe
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\bin\Debug\net8.0\Delegate_Math.deps.json
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\bin\Debug\net8.0\Delegate_Math.runtimeconfig.json
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\bin\Debug\net8.0\Delegate_Math.dll
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\bin\Debug\net8.0\Delegate_Math.pdb
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\obj\Debug\net8.0\Delegate_Math.dll
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\obj\Debug\net8.0\refint\Delegate_Math.dll
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\obj\Debug\net8.0\Delegate_Math.pdb
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\obj\Debug\net8.0\Delegate_Math.genruntimeconfig.cache
+D:\Users\karpagam\source\repos\Delegate_Math\Delegate_Math\obj\Debug\net8.0\ref\Delegate_Math.dll

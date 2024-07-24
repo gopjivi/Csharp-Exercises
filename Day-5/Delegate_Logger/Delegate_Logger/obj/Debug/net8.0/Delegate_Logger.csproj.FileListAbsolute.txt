@@ -1,0 +1,15 @@
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\bin\Debug\net8.0\Delegate_Logger.exe
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\bin\Debug\net8.0\Delegate_Logger.deps.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\bin\Debug\net8.0\Delegate_Logger.runtimeconfig.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\bin\Debug\net8.0\Delegate_Logger.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\bin\Debug\net8.0\Delegate_Logger.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\obj\Debug\net8.0\Delegate_Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\obj\Debug\net8.0\Delegate_Logger.AssemblyInfoInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\obj\Debug\net8.0\Delegate_Logger.AssemblyInfo.cs
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\obj\Debug\net8.0\Delegate_Logger.csproj.CoreCompileInputs.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\obj\Debug\net8.0\Delegate_Logger.sourcelink.json
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\obj\Debug\net8.0\Delegate_Logger.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\obj\Debug\net8.0\refint\Delegate_Logger.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\obj\Debug\net8.0\Delegate_Logger.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\obj\Debug\net8.0\Delegate_Logger.genruntimeconfig.cache
+D:\Users\karpagam\C#\Csharp-Exercises\Day-5\Delegate_Logger\Delegate_Logger\obj\Debug\net8.0\ref\Delegate_Logger.dll
