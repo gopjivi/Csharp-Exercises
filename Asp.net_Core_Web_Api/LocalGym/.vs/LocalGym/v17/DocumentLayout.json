@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\asp.net_core_web_api\\localgym\\localgym\\migrations\\20240730160339_seeds testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\migrations\\20240730160339_seeds testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\asp.net_core_web_api\\localgym\\localgym\\data\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\data\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\asp.net_core_web_api\\localgym\\localgym\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\asp.net_core_web_api\\localgym\\localgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\asp.net_core_web_api\\localgym\\localgym\\migrations\\20240730151652_creating table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\migrations\\20240730151652_creating table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\asp.net_core_web_api\\localgym\\localgym\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\asp.net_core_web_api\\localgym\\localgym\\entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\asp.net_core_web_api\\localgym\\localgym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\asp.net_core_web_api\\localgym\\localgym\\migrations\\20240730151419_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\migrations\\20240730151419_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\asp.net_core_web_api\\localgym\\localgym\\migrations\\gymdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\migrations\\gymdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|d:\\users\\karpagam\\c#\\csharp-exercises\\asp.net_core_web_api\\localgym\\localgym\\localgym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{829B34B3-6141-43F6-BCA4-EA889F40094E}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\localgym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240730160339_seeds testing.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Migrations\\20240730160339_seeds testing.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Migrations\\20240730160339_seeds testing.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Migrations\\20240730160339_seeds testing.cs",
+              "RelativeToolTip": "LocalGym\\Migrations\\20240730160339_seeds testing.cs",
+              "ViewState": "AQIAAAIAAACAmZmZmVkqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:03:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240730151652_Creating Table.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Migrations\\20240730151652_Creating Table.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Migrations\\20240730151652_Creating Table.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Migrations\\20240730151652_Creating Table.cs",
+              "RelativeToolTip": "LocalGym\\Migrations\\20240730151652_Creating Table.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:16:53.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\appsettings.json",
+              "RelativeDocumentMoniker": "LocalGym\\appsettings.json",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\appsettings.json",
+              "RelativeToolTip": "LocalGym\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T10:34:53.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GymDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Data\\GymDbContext.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Data\\GymDbContext.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Data\\GymDbContext.cs",
+              "RelativeToolTip": "LocalGym\\Data\\GymDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAywCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:09:59.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Program.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Program.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Program.cs",
+              "RelativeToolTip": "LocalGym\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:38:54.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Entities\\Trainer.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Entities\\Trainer.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Entities\\Trainer.cs",
+              "RelativeToolTip": "LocalGym\\Entities\\Trainer.cs",
+              "ViewState": "AQIAAAIAAAAAZ2ZmZmYfwBAAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:54:40.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Entities\\Member.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Entities\\Member.cs",
+              "RelativeToolTip": "LocalGym\\Entities\\Member.cs",
+              "ViewState": "AQIAAAMAAAAuAAAAAAAhwA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:50:10.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Entities\\Session.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Entities\\Session.cs",
+              "RelativeToolTip": "LocalGym\\Entities\\Session.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:58:49.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240730151419_Initial migration.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Migrations\\20240730151419_Initial migration.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Migrations\\20240730151419_Initial migration.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Migrations\\20240730151419_Initial migration.cs",
+              "RelativeToolTip": "LocalGym\\Migrations\\20240730151419_Initial migration.cs",
+              "ViewState": "AQIAADYAAADAZ2ZmZmYjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:14:20.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GymDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Migrations\\GymDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Migrations\\GymDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\Migrations\\GymDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LocalGym\\Migrations\\GymDbContextModelSnapshot.cs",
+              "ViewState": "AQIAADUAAAAAmZmZmVkpwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:17:22.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocalGym.csproj",
+              "DocumentMoniker": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\LocalGym.csproj",
+              "RelativeDocumentMoniker": "LocalGym\\LocalGym.csproj",
+              "ToolTip": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Asp.net_Core_Web_Api\\LocalGym\\LocalGym\\LocalGym.csproj",
+              "RelativeToolTip": "LocalGym\\LocalGym.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T10:09:02.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
