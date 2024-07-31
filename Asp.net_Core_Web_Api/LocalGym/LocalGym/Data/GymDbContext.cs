@@ -34,6 +34,28 @@ namespace LocalGym.Data
                    JoinDate = System.DateTime.Now,
 
                });
+            modelBuilder.Entity<Trainer>().HasData(
+
+              new Trainer
+              {
+                  TrainerId = 1,
+                  FirstName = "Hanumika",
+                  LastName = "g",
+                  Speciality = "boxer",
+                  FeePer30Minutes = 100,
+                  HireDate = System.DateTime.Now
+              });
+            modelBuilder.Entity<Session>().HasData(
+
+             new Session
+             {
+                 SessionId = 1,
+                 CustomerId = 1,
+                 TrainerId = 1,
+                 SessionDate = System.DateTime.Now,
+                 Duration = "90 mins",
+                 
+             });
         }
     }
 

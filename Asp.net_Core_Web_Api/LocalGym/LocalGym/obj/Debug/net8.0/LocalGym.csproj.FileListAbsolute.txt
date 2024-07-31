@@ -135,3 +135,5 @@ D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\obj
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\obj\Debug\net8.0\LocalGym.pdb
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\obj\Debug\net8.0\LocalGym.genruntimeconfig.cache
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\obj\Debug\net8.0\ref\LocalGym.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\AutoMapper.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

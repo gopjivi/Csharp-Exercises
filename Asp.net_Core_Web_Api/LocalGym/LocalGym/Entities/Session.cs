@@ -8,11 +8,18 @@ namespace LocalGym.Entities
     {
         [Key]
         public int SessionId { get; set; }
+        [Required]
+        public int CustomerId { get; set; }
+
         [ForeignKey("CustomerId")]
-        public required Member member { get; set; }
+        public Member Member { get; set; }
+
+
+        [Required]
+        public int TrainerId { get; set; }
 
         [ForeignKey("TrainerId")]
-        public required Trainer trainer { get; set; }
+        public Trainer Trainer { get; set; }
 
         public DateTime SessionDate { get; set; }
 
