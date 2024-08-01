@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LocalGym</name>
+    </assembly>
+    <members>
+        <member name="M:LocalGym.Controllers.MembersController.GetMemberByID(System.Int32)">
+            <summary>
+            get the member by id
+            </summary>
+            <param name="id"></param>
+            <returns>return the member details by id</returns>
+        </member>
+        <member name="M:LocalGym.Controllers.TrainersController.GetTrainerByID(System.Int32)">
+            <summary>
+            get trainer by ide
+            </summary>
+            <param name="id"></param>
+            <returns>return train by id</returns>
+        </member>
+        <member name="T:LocalGym.Migrations.Initialmigration">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.Initialmigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.Initialmigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.Initialmigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LocalGym.Migrations.CreatingTable">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.CreatingTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.CreatingTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.CreatingTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LocalGym.Migrations.updatedmembertable">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.updatedmembertable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.updatedmembertable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.updatedmembertable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LocalGym.Migrations.seedstesting">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.seedstesting.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.seedstesting.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.seedstesting.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LocalGym.Migrations.seedingvalues">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.seedingvalues.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.seedingvalues.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.seedingvalues.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LocalGym.Models.MemberDto">
+            <summary>
+            Member
+            </summary>
+        </member>
+        <member name="P:LocalGym.Models.MemberDto.MemberId">
+            <summary>
+            memeber id
+            </summary>
+        </member>
+        <member name="P:LocalGym.Models.MemberDto.FirstName">
+            <summary>
+            first name
+            </summary>
+        </member>
+        <member name="P:LocalGym.Models.MemberDto.LastName">
+            <summary>
+            last name
+            </summary>
+        </member>
+        <member name="P:LocalGym.Models.MemberDto.Email">
+            <summary>
+            email
+            </summary>
+        </member>
+        <member name="P:LocalGym.Models.MemberDto.JoinDate">
+            <summary>
+            joindate 
+            </summary>
+        </member>
+        <member name="T:LocalGym.Models.TrainerDto">
+            <summary>
+            trainer dto
+            </summary>
+        </member>
+        <member name="P:LocalGym.Models.TrainerDto.TrainerId">
+            <summary>
+            
+            trainer id
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5\\LINQandObjects\\LINQandObjects\\LINQandObjects.csproj": {}
+    "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5-6\\LINQandObjects\\LINQandObjects\\LINQandObjects.csproj": {}
   },
   "projects": {
-    "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5\\LINQandObjects\\LINQandObjects\\LINQandObjects.csproj": {
+    "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5-6\\LINQandObjects\\LINQandObjects\\LINQandObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5\\LINQandObjects\\LINQandObjects\\LINQandObjects.csproj",
+        "projectUniqueName": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5-6\\LINQandObjects\\LINQandObjects\\LINQandObjects.csproj",
         "projectName": "LINQandObjects",
-        "projectPath": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5\\LINQandObjects\\LINQandObjects\\LINQandObjects.csproj",
+        "projectPath": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5-6\\LINQandObjects\\LINQandObjects\\LINQandObjects.csproj",
         "packagesPath": "D:\\Users\\karpagam\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5\\LINQandObjects\\LINQandObjects\\obj\\",
+        "outputPath": "D:\\Users\\karpagam\\C#\\Csharp-Exercises\\Day-5-6\\LINQandObjects\\LINQandObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\karpagam\\AppData\\Roaming\\NuGet\\NuGet.Config",

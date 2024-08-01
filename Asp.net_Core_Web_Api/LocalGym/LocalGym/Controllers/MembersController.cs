@@ -2,6 +2,7 @@
 using LocalGym.Models;
 using LocalGym.Profiles;
 using LocalGym.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Reflection.Metadata.Ecma335;
@@ -9,6 +10,7 @@ using System.Reflection.Metadata.Ecma335;
 namespace LocalGym.Controllers
 {
     [Route("api/[controller]")]
+   // [Authorize]
     [ApiController]
     public class MembersController : ControllerBase
     {
@@ -28,7 +30,11 @@ namespace LocalGym.Controllers
 
             return Ok(_mapper.Map<IEnumerable<MemberDto>>(members));
         }
-
+        /// <summary>
+        /// get the member by id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>return the member details by id</returns>
         [HttpGet("{id}")]
         public async Task<IActionResult> GetMemberByID(int id)
         {

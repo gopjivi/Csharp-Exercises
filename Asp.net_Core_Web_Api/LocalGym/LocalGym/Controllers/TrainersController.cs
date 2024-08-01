@@ -2,12 +2,14 @@
 using LocalGym.Entities;
 using LocalGym.Models;
 using LocalGym.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LocalGym.Controllers
 {
     [Route("api/[controller]")]
+  //  [Authorize]
     [ApiController]
     public class TrainersController : ControllerBase
     {
@@ -27,7 +29,11 @@ namespace LocalGym.Controllers
 
             return Ok(_mapper.Map<IEnumerable<TrainerDto>>(trainers));
         }
-
+        /// <summary>
+        /// get trainer by ide
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>return train by id</returns>
         [HttpGet("{id}")]
         public async Task<IActionResult> GetTrainerByID(int id)
         {
