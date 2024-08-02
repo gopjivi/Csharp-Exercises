@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace LocalGym.Controllers
 {
     [Route("api/[controller]")]
-  //  [Authorize]
+   [Authorize]
     [ApiController]
     public class TrainersController : ControllerBase
     {
@@ -23,7 +23,7 @@ namespace LocalGym.Controllers
 
 
         [HttpGet]
-        public async Task<IActionResult> GetAllTrainers()
+        public async Task<ActionResult<IEnumerable<TrainerDto>>> GetAllTrainers()
         {
             var trainers = await _localGymRepository.GetTrainersAsync();
 
@@ -35,7 +35,9 @@ namespace LocalGym.Controllers
         /// <param name="id"></param>
         /// <returns>return train by id</returns>
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetTrainerByID(int id)
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public async Task<ActionResult<TrainerDto>> GetTrainerByID(int id)
         {
             var trainer = await _localGymRepository.GetTrainerAsync(id);
             if (trainer == null)
@@ -47,7 +49,7 @@ namespace LocalGym.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateTrainer([FromBody] TrainerDto trainer)
+        public async Task<ActionResult> CreateTrainer([FromBody] TrainerDto trainer)
         {
             if (!ModelState.IsValid)
             {
@@ -68,7 +70,7 @@ namespace LocalGym.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateTrainer(int id,[FromBody] TrainerDto trainer)
+        public async Task<ActionResult> UpdateTrainer(int id,[FromBody] TrainerDto trainer)
         {
             if (!ModelState.IsValid)
             {

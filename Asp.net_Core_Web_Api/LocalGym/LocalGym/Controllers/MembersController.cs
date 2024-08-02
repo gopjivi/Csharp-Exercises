@@ -10,7 +10,7 @@ using System.Reflection.Metadata.Ecma335;
 namespace LocalGym.Controllers
 {
     [Route("api/[controller]")]
-   // [Authorize]
+    [Authorize]
     [ApiController]
     public class MembersController : ControllerBase
     {
@@ -24,7 +24,7 @@ namespace LocalGym.Controllers
 
 
         [HttpGet]
-        public async Task<IActionResult> GetAllMembers()
+        public async Task<ActionResult<IEnumerable<MemberDto>>> GetAllMembers()
         {
             var members = await _localGymRepository.GetMembersAsync();
 
@@ -36,7 +36,7 @@ namespace LocalGym.Controllers
         /// <param name="id"></param>
         /// <returns>return the member details by id</returns>
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetMemberByID(int id)
+        public async Task<ActionResult<MemberDto>> GetMemberByID(int id)
         {
             var members = await _localGymRepository.GetMemberAsync(id);
             if(members==null)

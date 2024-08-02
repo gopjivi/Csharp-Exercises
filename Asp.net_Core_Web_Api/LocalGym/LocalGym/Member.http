@@ -1,0 +1,7 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+# https://localhost:7142/api/Members
+@schema=https
+@hostname=localhost
+@port=7142
+
+GET {{schema}}://{{hostname}}:{{port}}/api/Members
