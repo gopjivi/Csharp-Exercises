@@ -1,13 +1,18 @@
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\appsettings.Development.json
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\appsettings.json
+D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\appsettings.Production.json
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\LocalGym.exe
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\LocalGym.deps.json
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\LocalGym.runtimeconfig.json
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\LocalGym.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\LocalGym.pdb
+D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\LocalGym.xml
+D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\AutoMapper.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Azure.Core.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Azure.Identity.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Humanizer.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -32,6 +37,7 @@ D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -135,9 +141,3 @@ D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\obj
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\obj\Debug\net8.0\LocalGym.pdb
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\obj\Debug\net8.0\LocalGym.genruntimeconfig.cache
 D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\obj\Debug\net8.0\ref\LocalGym.dll
-D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\AutoMapper.dll
-D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\LocalGym.xml
-D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\Users\karpagam\C#\Csharp-Exercises\Asp.net_Core_Web_Api\LocalGym\LocalGym\bin\Debug\net8.0\appsettings.Production.json

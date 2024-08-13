@@ -74,12 +74,13 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
-    app.UseExceptionHandler("/error-local-development");
+    // app.UseExceptionHandler("/error-local-development");
+    app.AddErrorHandler();
 }
 else
 {
-    // app.AddErrorHandler();
-    app.UseExceptionHandler("/error");
+     app.AddErrorHandler();
+   // app.UseExceptionHandler("/error");
 
 }
 
